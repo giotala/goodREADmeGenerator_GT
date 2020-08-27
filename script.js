@@ -30,7 +30,7 @@ inquirer.prompt([
         name: "names"
     },
     {
-        type: "list",
+        type: "choices",
         message: "What did you use to create this App?",
         name: "Apps",
         choices: [
@@ -48,7 +48,7 @@ inquirer.prompt([
     },
     {
         type: "input",
-        message: "Who will use this App?",
+        message: "Who will use this App and why?",
         name: "forWho"
     },
     {
@@ -57,14 +57,19 @@ inquirer.prompt([
         name: "description"
     },
     {
-        type: "",
-        message: "What is your name?",
-        name: "name"
+        type: "input",
+        message: "What's install here?",
+        name: "install"
     },
     {
         type: "input",
-        message: "What is your name?",
-        name: "name"
+        message: "Any Testings?",
+        name: "test"
+    },
+    {
+        type: "input",
+        message: "Any Questions?",
+        name: "question"
     },
      
 ]).then((inputs) => {
