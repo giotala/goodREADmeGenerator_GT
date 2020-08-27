@@ -1,45 +1,45 @@
-# dshfoisdjf
-##Description
+# Good ReadMe Generator 
 
-sdfas
+## Description
 
-##Installations 
+This Application will help me as a developer to get the readme faster and easier by answering question and i don't have to edit the Readme anymore
 
- asfsdaf 
+## Installations 
 
-##Usage 
+ Inquirer 
+
+## Usage 
 
  *Who will use this app and why? 
 
-  sdfsad
+  Myself and other developer and maybe clients once we edit this for client base to get their info faster
 
 
-##license: 
+### license: 
 
- sdfa 
+Inquirer? 
 
-##Credits 
+### Credits 
 
- *gio 
+ *Gio 
 
- *Github page: giotala 
-
+ *Github page: giotala
+ 
  *My email: gio.talabong@gmail.com 
 
- *Contributors: sdafsdf 
+ *Contributors: Myself 
 
-##Used to create the apps  
+### Used to create the apps  
 
- *JavaScript 
+ *JavaScript,Love 
 
- *license: sdfa 
+ *license: Inquirer? 
 
-##Test 
+### Test 
 
-  *sadfasd 
+  *did a lot of for myself 
 
-##Questions 
+### Questions 
 
-  *sdfasfd 
-
+  *Nada. Why you awesome? 
 

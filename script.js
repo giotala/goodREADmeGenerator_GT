@@ -30,7 +30,7 @@ inquirer.prompt([
         name: "names"
     },
     {
-        type: "choices",
+        type: "checkbox",
         message: "What did you use to create this App?",
         name: "Apps",
         choices: [
