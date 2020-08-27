@@ -2,44 +2,41 @@
 
 ## Description
 
-This Application will help me as a developer to get the readme faster and easier by answering question and i don't have to edit the Readme anymore
+This application will help me create ReadMe faster and easier without me having to edit the read. Just answering a bunch of quick question I could create Readme in a Tidy way!
 
 ## Installations 
 
- Inquirer 
+ * Inquirer 
 
 ## Usage 
 
- *Who will use this app and why? 
+ * Who will use this app and why? 
 
-  Myself and other developer and maybe clients once we edit this for client base to get their info faster
+  Myself and other developers and maybe Clients who I want to get info quickly
 
 
 ### license: 
 
-Inquirer? 
+Inquirer i think 
 
 ### Credits 
 
- *Gio 
-
- *Github page: giotala
- 
- *My email: gio.talabong@gmail.com 
-
- *Contributors: Myself 
+ * Gio 
+ * Github page: giotala
+ * My email: gio.talabong@gmail.com 
+ * Contributors: Myself 
 
 ### Used to create the apps  
 
- *JavaScript,Love 
+ * JavaScript,Love 
 
- *license: Inquirer? 
+ * license: Inquirer i think 
 
 ### Test 
 
-  *did a lot of for myself 
+ * Just me testing the App a bunch of times 
 
 ### Questions 
 
-  *Nada. Why you awesome? 
+ * Nada! Keep smilin' :) 
 
